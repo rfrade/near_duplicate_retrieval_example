@@ -3,3 +3,5 @@ Example of how the fine-tuned Vision Transformers improves the retrieval of near
 Requirements: transformers, torch, pillow, numpy
 
 Fine-tuned model: huggingface.co/rfrade/near_duplicate_retrieval_vit
+
+![Example](similarity_example.png)
